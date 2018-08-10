@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HolaMundo2019g5", "HolaMundo2019g5\HolaMundo2019g5.csproj", "{DA67A46F-75E5-41C8-800D-21A33AD35940}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TarifaLlamadas", "TarifaLlamadas\TarifaLlamadas.csproj", "{9EFAB50F-DD5A-4D7F-9E23-9939CBC8981A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA67A46F-75E5-41C8-800D-21A33AD35940}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA67A46F-75E5-41C8-800D-21A33AD35940}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA67A46F-75E5-41C8-800D-21A33AD35940}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA67A46F-75E5-41C8-800D-21A33AD35940}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EFAB50F-DD5A-4D7F-9E23-9939CBC8981A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EFAB50F-DD5A-4D7F-9E23-9939CBC8981A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EFAB50F-DD5A-4D7F-9E23-9939CBC8981A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EFAB50F-DD5A-4D7F-9E23-9939CBC8981A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {844E453C-888D-4A07-B671-AD0864B9A4DB}
+	EndGlobalSection
+EndGlobal
